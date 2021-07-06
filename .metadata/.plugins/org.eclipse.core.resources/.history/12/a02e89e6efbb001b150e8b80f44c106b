@@ -1,0 +1,13 @@
+package intro;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// veri tipleri && deðiþkenler
+		//camelCase
+		String internetSubeButton
+		System.out.println("Hello word");
+
+	}
+
+}

@@ -1,0 +1,6 @@
+package nLayeredDemo.dataAccess.concretes;
+
+public class HibernateProductDao {
+//Hibernate veritabaný ile iletiþim kurmayý saðlar
+	
+}
